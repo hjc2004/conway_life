@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conway_life", "conway_life\conway_life.csproj", "{854BB00A-3A1F-4404-BF94-BECF3DD4F6F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Try", "Try\Try.csproj", "{59D7815E-659B-41D1-BE36-F2A02CA985D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{854BB00A-3A1F-4404-BF94-BECF3DD4F6F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{854BB00A-3A1F-4404-BF94-BECF3DD4F6F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{854BB00A-3A1F-4404-BF94-BECF3DD4F6F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{854BB00A-3A1F-4404-BF94-BECF3DD4F6F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59D7815E-659B-41D1-BE36-F2A02CA985D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59D7815E-659B-41D1-BE36-F2A02CA985D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59D7815E-659B-41D1-BE36-F2A02CA985D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59D7815E-659B-41D1-BE36-F2A02CA985D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8622767B-A661-44C3-A3E4-8D30852C9E6B}
+	EndGlobalSection
+EndGlobal

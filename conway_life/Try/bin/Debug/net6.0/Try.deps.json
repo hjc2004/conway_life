@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Try/1.0.0": {
+        "dependencies": {
+          "conway_life": "1.0.0"
+        },
+        "runtime": {
+          "Try.dll": {}
+        }
+      },
+      "conway_life/1.0.0": {
+        "runtime": {
+          "conway_life.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Try/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "conway_life/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
